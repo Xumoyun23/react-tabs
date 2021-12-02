@@ -1,3 +1,2 @@
-#### IN ACTION
-
-[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
+#humoyun_yarashev
+https://dora.uz/
